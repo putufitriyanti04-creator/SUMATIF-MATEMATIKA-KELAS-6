@@ -1,0 +1,8 @@
+{
+  "name": "Sumatif Akhir Semester (SAS) Bahasa Indonesia",
+  "description": "Aplikasi Tes Sumatif Akhir Semester (SAS) Kelas VI SD Negeri 6 Pendem ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
